@@ -1,5 +1,4 @@
 # tower_of_hanoi
 
-## 1.None
+###基于Pygame界面库的图形化模拟hanoi塔移动
 
-123
